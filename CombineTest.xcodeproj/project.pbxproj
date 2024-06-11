@@ -19,6 +19,7 @@
 		6FA1CB4D2C14488300793509 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6FA1CB4F2C14488400793509 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6FA1CB522C14488400793509 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6FA1CB592C1486F700793509 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +52,7 @@
 		6FA1CB4A2C14488300793509 /* CombineTest */ = {
 			isa = PBXGroup;
 			children = (
+				6FA1CB592C1486F700793509 /* Info.plist */,
 				6FA1CB4B2C14488300793509 /* CombineTestApp.swift */,
 				6FA1CB4D2C14488300793509 /* ContentView.swift */,
 				6FA1CB4F2C14488400793509 /* Assets.xcassets */,
@@ -275,6 +277,7 @@
 				DEVELOPMENT_TEAM = SYZM4D2Z3D;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CombineTest/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -304,6 +307,7 @@
 				DEVELOPMENT_TEAM = SYZM4D2Z3D;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CombineTest/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
